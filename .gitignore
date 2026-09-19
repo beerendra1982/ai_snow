@@ -32,11 +32,6 @@ models/
 .DS_Store
 Thumbs.db
 
-# --- Data Files ---
-data/
-*.csv
-*.json
-*.parquet
 
 # --- Temporary / Build Files ---
 tmp/
