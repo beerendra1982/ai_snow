@@ -6,6 +6,9 @@
 This document provides instructions to run the code in this repository.
 
 ## Prerequisites
+download this model and place it in models folder
+all-MiniLM-L6-v2
+https://huggingface.co/RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.2-gguf/tree/main
 
 ## Running the Code
 1. Clone the repository:
@@ -20,11 +23,7 @@ This document provides instructions to run the code in this repository.
      python -m streamlit run streamlit_app.py
 
 ## Notes
-- Replace `<repository-url>` and `<script-name>` with the actual values.
-- Refer to the documentation for additional configuration.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
 =======
 # ai_snow
->>>>>>> 2ac9ce9ac0c561701fde3dd3297808c737c3be51
