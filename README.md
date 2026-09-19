@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ai_snow
 # README
 
@@ -24,3 +25,6 @@ This document provides instructions to run the code in this repository.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+=======
+# ai_snow
+>>>>>>> 2ac9ce9ac0c561701fde3dd3297808c737c3be51
