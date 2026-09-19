@@ -1,0 +1,49 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+
+# --- Virtual Environments ---
+env/
+venv/
+.venv/
+
+# --- FAISS Indexes ---
+faiss_index/
+*.index
+
+# --- Local Models (GGUF, ONNX, GPT4All, etc.) ---
+models/
+*.gguf
+*.onnx
+*.bin
+*.pth
+*.pt
+
+# --- Streamlit Cache ---
+.streamlit/
+.streamlit_cache/
+
+# --- OS / Editor Junk ---
+.DS_Store
+Thumbs.db
+
+# --- Data Files ---
+data/
+*.csv
+*.json
+*.parquet
+
+# --- Temporary / Build Files ---
+tmp/
+temp/
+build/
+dist/
+
+# --- Secrets ---
+*.env
+.env.*
