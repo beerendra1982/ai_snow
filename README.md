@@ -6,17 +6,20 @@
 This document provides instructions to run the code in this repository.
 
 ## Prerequisites
-download this model and place it in models folder
-all-MiniLM-L6-v2
+downl this model and place it in models folder
+
 https://huggingface.co/RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.2-gguf/tree/main
 
 ## Running the Code
 1. Clone the repository:
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/beerendra1982/ai_snow
      ```
 2. Navigate to the project directory:
      ```
+     source env/bin/activate 
+     pip install -r requirements.txt  
+     
 3. Execute the script:
      ```
      python build_unified_index.py
